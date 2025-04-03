@@ -21,7 +21,7 @@ This project implements an automated version of the classic card game "WAR" usin
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/jtabasco/Creating-an-automated-version-of-the-classic-card-game-WAR.git](https://github.com/jtabasco/Creating-an-automated-version-of-the-classic-card-game-WAR.git)
+    git clone https://github.com/jtabasco/Creating-an-automated-version-of-the-classic-card-game-WAR.git
     ```
 
 2.  **Compile the Project:**
