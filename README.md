@@ -1,14 +1,14 @@
 # 🎮 Automated WAR Card Game (Java)
 
 ## 📑 Table of Contents
-- [✨ Features](#-features)
-- [📋 Requirements](#-requirements)
-- [🚀 Installation](#-installation)
-- [📁 Project Structure](#-project-structure)
-- [💡 Suggested Improvements](#-suggested-improvements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [📧 Contact](#-contact)
+- <a href="#-features" style="text-decoration: none; color: inherit;">✨ Features</a>
+- <a href="#-requirements" style="text-decoration: none; color: inherit;">📋 Requirements</a>
+- <a href="#-installation" style="text-decoration: none; color: inherit;">🚀 Installation</a>
+- <a href="#-project-structure" style="text-decoration: none; color: inherit;">📁 Project Structure</a>
+- <a href="#-suggested-improvements" style="text-decoration: none; color: inherit;">💡 Suggested Improvements</a>
+- <a href="#-contributing" style="text-decoration: none; color: inherit;">🤝 Contributing</a>
+- <a href="#-license" style="text-decoration: none; color: inherit;">📄 License</a>
+- <a href="#-contact" style="text-decoration: none; color: inherit;">📧 Contact</a>
 
 This project implements an automated version of the classic card game "WAR" using Java. It simulates the traditional "War Card Game" mechanics between two players, determining a winner after a set number of rounds.
 
